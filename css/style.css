@@ -1,0 +1,53 @@
+html, body{
+    box-sizing: border-box;
+}
+#logo {
+	text-align: center;
+}
+#main {
+	width: 960px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Raleway';
+}
+.cycle-slideshow {
+	width: 960px;
+	margin-left: 145px
+}
+#slideshow{
+    width: 960px;
+    margin-bottom: 20px;
+}
+#perfil {
+	margin-left: 50px;
+	}
+#nome {
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Raleway';
+	color: #7f7f7f;
+	}
+#sobre {
+	width: 660px;
+	margin-left: 150px;
+	margin-right: 150px;
+	font-family: 'Raleway';
+	font-size: 14px;
+	text-align: left;
+	color: #7f7f7f;
+}
+#links {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#contato {
+	text-align: center;
+	font-family: 'Raleway';
+	color: #7f7f7f;
+	margin-bottom: 20px;
+}
+.clear {
+	clear: both;
+}
+
