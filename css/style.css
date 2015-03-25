@@ -3,6 +3,8 @@ html, body{
 }
 #logo {
 	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
 }
 #main {
 	width: 960px;
@@ -21,17 +23,20 @@ html, body{
 }
 #perfil {
 	margin-left: 50px;
+	margin-bottom: 10px;
 	}
 #nome {
 	text-align: center;
 	font-size: 50px;
 	font-family: 'Raleway';
 	color: #7f7f7f;
+	margin-bottom: 10px;
 	}
 #sobre {
 	width: 660px;
 	margin-left: 150px;
 	margin-right: 150px;
+	margin-bottom: 10px;
 	font-family: 'Raleway';
 	font-size: 14px;
 	text-align: left;
@@ -40,6 +45,7 @@ html, body{
 #links {
 	margin-left: 10px;
 	margin-right: 10px;
+	margin-bottom: 10px;
 }
 #contato {
 	text-align: center;
